@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="BhaiGaandMarao">24.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060001">80.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060002">64.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060003">8.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060004">8.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060017">580.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060053">16.0sp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060056">64.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060058">12.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060059">4.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06005a">8.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06005b">16.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06005c">24.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060087">320.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06008a">0.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06008c">2.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06008f">576.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060090">320.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060093">@dimen/APKTOOL_RENAMED_0x7f060092</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06009d">16.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f0600bb">96.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060241">24.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f06027c">64.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060329">64.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060342">32.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060343">20.0sp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060344">12.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060347">56.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060348">120.0dp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060349">16.0sp</dimen>
+    <dimen name="APKTOOL_RENAMED_0x7f060353">32.0sp</dimen>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_RENAMED_0x7f10004d" parent="@style/APKTOOL_RENAMED_0x7f1000b7" />
+    <style name="APKTOOL_RENAMED_0x7f100054" parent="@style/APKTOOL_RENAMED_0x7f1000b8" />
+    <style name="APKTOOL_RENAMED_0x7f1000b7" parent="@style/APKTOOL_RENAMED_0x7f1000b1">
+        <item name="APKTOOL_RENAMED_0x7f0300e3">?android:colorError</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f1000b8" parent="@style/APKTOOL_RENAMED_0x7f1000b2">
+        <item name="APKTOOL_RENAMED_0x7f0300e3">?android:colorError</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f1000b9" parent="@style/APKTOOL_RENAMED_0x7f1000c3">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f1000fc" parent="@style/APKTOOL_RENAMED_0x7f1000b9" />
+    <style name="APKTOOL_RENAMED_0x7f10033a" parent="@android:style/Widget">
+        <item name="android:background">?APKTOOL_RENAMED_0x7f0300fc</item>
+        <item name="android:stateListAnimator">@animator/BhaiGaandMarao</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

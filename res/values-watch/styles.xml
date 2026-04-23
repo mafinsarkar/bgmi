@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_RENAMED_0x7f10004f" parent="@style/APKTOOL_RENAMED_0x7f1000a4">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowElevation">0.0dp</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f100056" parent="@style/APKTOOL_RENAMED_0x7f1000a6">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowElevation">0.0dp</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f10007e" parent="@style/APKTOOL_RENAMED_0x7f1000ab">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowElevation">0.0dp</item>
+    </style>
+</resources>

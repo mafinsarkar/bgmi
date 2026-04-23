@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_RENAMED_0x7f100342" parent="@style/APKTOOL_RENAMED_0x7f1000fe">
+        <item name="APKTOOL_RENAMED_0x7f0303db">APKTOOL_RENAMED_0x7f08005d</item>
+        <item name="APKTOOL_RENAMED_0x7f0303e8">APKTOOL_RENAMED_0x7f0800b0</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f100433" parent="@style/APKTOOL_RENAMED_0x7f100334">
+        <item name="android:textAppearance">?APKTOOL_RENAMED_0x7f03040a</item>
+        <item name="android:textColor">?APKTOOL_RENAMED_0x7f0300ea</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">start|top</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/APKTOOL_RENAMED_0x7f090032</item>
+    </style>
+    <style name="APKTOOL_RENAMED_0x7f100436" parent="@style/APKTOOL_RENAMED_0x7f100116">
+        <item name="android:layout_gravity">start|bottom</item>
+    </style>
+</resources>
